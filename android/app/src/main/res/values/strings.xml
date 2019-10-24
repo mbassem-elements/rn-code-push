@@ -1,8 +1,8 @@
 <resources>
-	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">eDHTlZlLWBHaSauZlzGQqVq8LJXv77f75582-a486-42b4-b7e6-3fce2db0b019</string>
+    <string name="reactNativeCodePush_androidDeploymentKey" moduleConfig="true">eDHTlZlLWBHaSauZlzGQqVq8LJXv77f75582-a486-42b4-b7e6-3fce2db0b019</string>
     <string name="app_name">rn_codepush</string>
 
-       <string name="CodePushPublicKey">-----BEGIN PUBLIC KEY-----
+    <string name="CodePushPublicKey">-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA04LLnxvIBuIUoAfDwupB
 1FHDebd9/ukuA1UXNwKXeGqumpUXuMCHD8VQRc72nOyBNqxeanopxFRPWCVgHUfU
 VbpfgPSpoJedHKXms82SOiz8IweLXFsB3zjJspWOPsKm4qpUhrwQ3+cuqy1JApTw
@@ -11,4 +11,7 @@ Fu9QeI01RQvcH1eBIeQ6FxXm84k08RaQqh7rxNJPFpqOfMmm8FPLAZfmAQPSXXCr
 3XjQsrpWiBkFTi2p0YfoJoIt4hIx54JTM7chSe7wnba5v0B7WYRcEPQhMR66xunM
 5wIDAQAB
 -----END PUBLIC KEY-----</string>
+
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
 </resources>

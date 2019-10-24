@@ -59,7 +59,7 @@ class App extends React.Component {
                                 </Text>
 
                                 <Text style={styles.sectionDescription}>
-                                    Testing no update dialog
+                            Modules Linked
                                 </Text>
 
 
