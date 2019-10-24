@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "react": "16.8.1",
-    "react-native": "0.60.6"
+    "react-native": "0.60.6",
+    "react-native-code-push": "^5.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
